@@ -1,8 +1,8 @@
 ### Fala aí 👋
 
 * 👋 Opa, aqui é o jVictorSA, vulgo João Victor, estudante de ciência da computação;
-* 👀 Me interesso em desenvolvimento de jogos, computação gráfica e inteligência artificial;
-* 🌱 Estou no momento aprendendo C++ para iniciar minhas aprendizagens em tópicos da computação gráfica (como Ray Tracing), e Python para tópicos em machine learning;
+* 👀 Me interesso em desenvolvimento de jogos, computação gráfica e inteligência artificial e desenvolvimento web;
+* 🌱 Aprendendo C++, Python e Rust;
 * 👯 Desejo colaborar com projetos Open Source nas áreas de meu interesse;
 * 📫 Como me contactar: mande-me um e-mail em jvsa@ic.ufal.br
 
